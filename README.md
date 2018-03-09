@@ -16,4 +16,5 @@ It persists your bookmarks to Local Storage</p>
 <pre>After bookmarking some sites</pre>
 ![alt text](screenshots/b2.png '')
 
-
+<p>You can also add as much sites as you want or delete already added sites and even visit the sites
+  you bookmarked right from the application</p>
