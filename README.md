@@ -11,5 +11,9 @@ It persists your bookmarks to Local Storage</p>
 <p>  Just clone or download and run in your browser.</p>
 
 <pre>This is what it looks like onload</pre>
-
 ![alt text](screenshots/b1.png '')
+
+<pre>After bookmarking some sites</pre>
+![alt text](screenshots/b2.png '')
+
+
