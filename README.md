@@ -9,3 +9,7 @@ It persists your bookmarks to Local Storage</p>
 </ul>
 <h3>Get Started</h3>
 <p>  Just clone or download and run in your browser.</p>
+
+<pre>This is what it looks like onload</pre>
+
+![alt text](screenshots/b1.png '')
